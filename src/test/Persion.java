@@ -9,4 +9,6 @@ public class Persion {
 
     private int age;
 
+    private String msg;
+
 }
